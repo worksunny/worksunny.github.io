@@ -225,8 +225,9 @@ a {
 .experience .company-wrapper {
   width: 30%;
   float: left;
+  clear: both;
   text-align: left;
-  padding-right: 5%;
+  padding-right: 10%;
   margin-bottom: 60px;
 }
 @media (max-width: 450px) {
@@ -272,6 +273,7 @@ a {
 .section-wrapper {
   width: 50%;
   float: left;
+  clear: both;
   text-align: left;
   color: #9099a0;
   font-weight: 300;
